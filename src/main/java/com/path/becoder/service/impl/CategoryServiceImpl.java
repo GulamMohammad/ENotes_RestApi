@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.ObjectUtils;
 
-import com.path.becoder.CategoryRepository;
+import com.path.becoder.repository.CategoryRepository;
 import com.path.becoder.entity.Category;
 import com.path.becoder.service.CategoryService;
 
